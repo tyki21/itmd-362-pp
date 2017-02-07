@@ -35,13 +35,14 @@ margin-top: 1em;
 margin-bottom: 1em;
 }
 
-label{
-	display: block;
+legend{
+	margin-top: 1em;
 }
-h1{
-	font-size: 2em;
+label,input
+{
+	display: block;
 }
 
-i{
-	display: block;
+h1{
+	font-size: 2em;
 }
