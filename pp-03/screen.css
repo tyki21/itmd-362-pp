@@ -24,10 +24,24 @@ blockquote, q {quotes: none;}blockquote:before, blockquote:after,q:before, q:aft
 }table {border-collapse: collapse;border-spacing: 0;}
 
 
-/*projected css*/
+
+/*my css*/
+body{
+	background-color: #dba959;
+}
+p
+{
+margin-top: 1em;
+margin-bottom: 1em;
+}
 
 label{
 	display: block;
-	color: red;
+}
+h1{
+	font-size: 2em;
 }
 
+i{
+	display: block;
+}
