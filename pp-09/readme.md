@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.http://drpete.co/topic/25-point-website-usability-checklist
+2.https://internetdevels.com/blog/50-point-checklist-for-website-usability-testing
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Clear point of why they are doing this
+2. The webpage is simple (easier to add than take away)
+3. Style is consistent throughout (no guess work needing to be done for links or buttons)
+4.Easy to read 
+5. See if they can get to a specific item or list easily
+6. Is it intuitive? Maybe place hints
+7. Color! But not too much. A nice background with well placed contrast sections and boxes will work
+8. Logos, Company names, important people are visible
+9. Don't be afraid to ask them questions, feedback is needed not optional
+10. It works across multiple browsers and versions
