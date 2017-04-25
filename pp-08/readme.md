@@ -8,18 +8,18 @@ Then, locate a physical object that you use regularly in your life (does not hav
 
 ## Deliverables
 
-A. Photograph of the object (place in the pp-09/ directory and commit).
+A. Photograph of the object (place in the pp-08/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: My keys are loud and alert me when they fall. It's a knee-jerk reaction to look for the source of the sound.
 
-* Behavioral:
+* Behavioral: Past the overall sound, I know that they will give me acess to shelter.
 
-* Reflective:
+* Reflective: I have a lot of keychains that I attached to my keys purely out of sentiment. The teddy bear I won from some game when I first started at IIT, the red lanyard I got during my senior or junior year of HS.
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Colors
+2. Fun/Safe feelings
+3. Intuitive use
