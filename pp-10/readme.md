@@ -13,3 +13,7 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`pp-10/`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+I would change the fact that automatic and street are the same thing on the Desktop, I feel like that causes confusion. 
+
+On the mobile, have areas that are relatively close to the users current location
