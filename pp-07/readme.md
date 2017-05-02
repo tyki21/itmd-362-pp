@@ -26,11 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL):https://msdn.microsoft.com/en-us/library/windows/desktop/dn742486.aspx
+* How you implemented it in your sketch: By making the login box the bigger object then the attention is automatically drawn to the login instead of other stuff.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742463(v=vs.85).aspx
+* How you implemented it in your sketch: It is quite easy to select the login box to input the users information
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://msdn.microsoft.com/en-us/library/windows/desktop/dn742476(v=vs.85).aspx
+* How you implemented it in your sketch: Simple text to let the user know what they are on the page for and what to enter into the login page.
